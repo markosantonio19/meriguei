@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\x\miakalifa\bin\Debug\miakalifa.exe.config
+C:\Users\Alumno\Desktop\x\miakalifa\bin\Debug\miakalifa.exe
+C:\Users\Alumno\Desktop\x\miakalifa\bin\Debug\miakalifa.pdb
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.Form1.resources
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.Form2.resources
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.Form3.resources
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.Form4.resources
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.Properties.Resources.resources
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.exe
+C:\Users\Alumno\Desktop\x\miakalifa\obj\Debug\miakalifa.pdb

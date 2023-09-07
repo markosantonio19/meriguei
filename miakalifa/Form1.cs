@@ -16,5 +16,23 @@ namespace miakalifa
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            // registro
+
+            Form2 registro = new Form2();
+            registro.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form4 registro3 = new Form4();
+            registro3.Show();
+            this.Hide();
+
+        }
     }
 }
